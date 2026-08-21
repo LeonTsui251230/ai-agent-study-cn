@@ -1,0 +1,15 @@
+{
+  "name": "ai-agent-study-cn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "人工智能代理学习站：面向中文读者的 AI Agent 系统学习路线",
+  "scripts": {
+    "serve": "docsify-cli serve .",
+    "lint:commit": "commitlint --edit"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0"
+  }
+}
