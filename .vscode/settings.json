@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "python.defaultInterpreterPath": "venv/bin/python",
+  "[markdown]": {
+    "editor.wordWrap": "on"
+  }
+}
